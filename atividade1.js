@@ -7,9 +7,9 @@
 const cidadesPE = ['Olinda','Belo Jardim','Gravatá','Arcoverde','Igarassu','Goiana','Moreno'];
 
 cidadesPE.reverse();
-//console.log(cidadesPE);
+console.log(cidadesPE);
 cidadesPE.splice(2, 0, "Salgueiro","Abreu e Lima");
-//console.log(cidadesPE);
+console.log(cidadesPE);
 
 //       //      //          //      //           //      //      //
 
@@ -20,4 +20,3 @@ cidadesPE.splice(2, 0, "Salgueiro","Abreu e Lima");
 const numeros = [1,4,8,6,9,2,6,7,3,0,5];
 let posicao = numeros.indexOf(9);
 console.log('O elemento 9 está na posição ' + posicao);
-
