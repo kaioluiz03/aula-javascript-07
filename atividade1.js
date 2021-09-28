@@ -4,7 +4,7 @@
 //c)Adicionar duas cidades usando splice('Salgueiro','Abreu e Lima').
 //d)Exibir no console.
 
-const cidadesPE = ['Olinda','Belo Jardim','Gravatá','Arcoverde','Igarassu','Goiana','Moreno'];
+var cidadesPE = ['Olinda','Belo Jardim','Gravatá','Arcoverde','Igarassu','Goiana','Moreno'];
 
 cidadesPE.reverse();
 console.log(cidadesPE);
