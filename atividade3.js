@@ -15,9 +15,9 @@ for(i = 0; i < texto.length; i++) {
         contagemVogais += 1;
     }
 }
-console.log(contagemVogais + 1)
-console.log(texto.toLowerCase())
-console.log()
+console.log(contagemVogais + 1);
+console.log(texto.toLowerCase());
+console.log(texto.indexOf("humanidade"));
 
 //       //      //          //      //           //      //      //
 
